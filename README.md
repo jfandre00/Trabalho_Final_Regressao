@@ -104,9 +104,9 @@ A análise foi conduzida em **quatro etapas principais**:
 
 Este projeto foi desenvolvido por:  
 
-- [Andre Loureiro Montini Ferreira](https://github.com/jfandre00)  
-- [Lucas Amorim Brusco] (https://github.com/zbrusco) 
-- [Pedro Conceição Costa] (https://github.com/dev-pedr0/dev-pedr0)  
+- [Andre Loureiro Montini Ferreira](https://github.com/jfandre00)
+- [Lucas Amorim Brusco](https://github.com/zbrusco)    
+- [Pedro Conceição Costa](https://github.com/dev-pedr0)    
 - Marcelo De Azevedo Sampaio  
 - Kauan Lima Oliveira  
 
