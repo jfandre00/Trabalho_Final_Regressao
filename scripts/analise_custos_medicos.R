@@ -102,6 +102,17 @@ ggplot(dados, aes(x = age, y = charges)) +
   ) +
   theme_minimal()
 
+#charges vs BMI (colorido por smoker)
+ggplot(dados, aes(x = bmi, y = charges)) +
+  geom_point(aes(color = smoker), alpha = 0.7) +
+  labs(
+    title = "Custo Médico vs. IMC",
+    subtitle = "Colorido por status de fumante",
+    x = "IMC",
+    y = "Custos ($)"
+  ) +
+  theme_minimal()
+
 # PASSO 5: MODELAGEM - CONSTRUÇÃO DO MODELO
 # ------------------------------------------
 
