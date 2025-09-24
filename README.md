@@ -107,7 +107,7 @@ Este projeto foi desenvolvido por:
 - [Andre Loureiro Montini Ferreira](https://github.com/jfandre00)
 - [Lucas Amorim Brusco](https://github.com/zbrusco)    
 - [Pedro Conceição Costa](https://github.com/dev-pedr0)    
-- Marcelo De Azevedo Sampaio  
+- [Marcelo De Azevedo Sampaio](https://github.com/marcelosampaio) 
 - Kauan Lima Oliveira  
 
 ---
