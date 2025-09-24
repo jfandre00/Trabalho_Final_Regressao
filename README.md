@@ -108,6 +108,6 @@ Este projeto foi desenvolvido por:
 - [Lucas Amorim Brusco](https://github.com/zbrusco)    
 - [Pedro Conceição Costa](https://github.com/dev-pedr0)    
 - [Marcelo De Azevedo Sampaio](https://github.com/marcelosampaio) 
-- Kauan Lima Oliveira  
+- [Kauan Lima Oliveira](https://github.com/devKauanLima) 
 
 ---
