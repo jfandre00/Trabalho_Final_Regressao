@@ -150,12 +150,12 @@ ggplot(fumantes, aes(x = age, y = bmi, color = charges)) +
   geom_point(alpha = 0.8, size = 3) +
   scale_color_gradient(low = "green", high = "red", labels = scales::dollar) +
   labs(
-    title = "Relação entre Idade, IMC e Custos (Fumantes com IMC >= 25)",
+    title = "Relação entre Idade, IMC e Custos",
     x = "Idade",
     y = "Índice de Massa Corporal (IMC)",
     color = "Custos" # Título da legenda de cores
   ) +
-  theme_minimal()
+  theme_minimal() + theme(plot.title = element_text(hjust = 0.5))
 
 plot_ly(data = fumantes,
         x = ~age,
